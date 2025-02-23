@@ -16,5 +16,5 @@ jobs:
         run: |
           git config --global user.email "simalaleonard@gmail.com"
           git config --global user.name "Simala-Leonard"
-          git remote add hf https://leonard11:$HF_TOKEN@huggingface.co/first-model-hf
+          git remote add hf https://Leonardsimala:$HF_TOKEN@huggingface.co/first-model-hf
           git push hf main
